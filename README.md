@@ -14,6 +14,10 @@ I recommend implementing this model into the company's pricing algorithm to opti
 For a New York-based car rental company, offering competitively priced daily insurance policies is crucial for both customer satisfaction and profitability. 
 However, the current flat-rate pricing model does not account for fluctuating collision risks, particularly those influenced by varying weather conditions. 
 Stakeholders have observed that this approach may lead to either overpricing, discouraging potential customers, or underpricing, resulting in financial losses due to high claim rates on days with adverse weather.
+
+![NUMCOLLISIONS](https://github.com/user-attachments/assets/ff22d746-c327-4c43-adaf-58ddecff928c)
+
+
 Because of this, only 30% of customers have been willing to pay the insurance policy when renting out a car. 
 However, a recent survey conducted by the company found out that 80% of customers would be willing to pay for the insurance policy if prices were more competitive.
 
@@ -53,6 +57,11 @@ The analysis of collision data combined with weather patterns led to the develop
 - Customer Uptake: The reduced and more accurate pricing strategy is projected to increase customer willingness to purchase insurance policies from 30% to 80%, further boosting revenue and customer satisfaction.
   This uptake, when applied across an average of 20,000 daily customers, would potentially increase the average daily revenue from $180,000 to $256,000, with daily profits rising from $100,000 to $176,000.
   This marks an 76% increase in profitability due to more accurate pricing that aligns with actual risk.
+  
+
+![SecondMultiLinear](https://github.com/user-attachments/assets/6a7d1492-2b68-48da-813d-f8c913952bd6)
+
+  
   
 #### Business Recommendations:
 
